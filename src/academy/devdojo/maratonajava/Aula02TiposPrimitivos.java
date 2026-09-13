@@ -19,11 +19,18 @@ public class Aula02TiposPrimitivos {
         char letter = 'M';
         byte ageByte = 10;
         short ageShort = 10;
-        double salaryDouble = 2500;
-        float salaryFloat = 2500;
+        double salaryDouble = 2500.0D;
+        float salaryFloat = 2500.0F;
         boolean truth = true;
-        boolean fake = true;
+        boolean fake = false;
+
         System.out.println("age is "+ageInt+ " years");
+        System.out.println(fake);
+        System.out.println("char: "+letter);
+
+        //casting
+        float casting = (float) 2000.0D;
+        System.out.println("double from float: "+casting);
     }
 
 }
