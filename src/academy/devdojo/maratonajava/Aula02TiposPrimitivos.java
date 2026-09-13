@@ -13,6 +13,7 @@ public class Aula02TiposPrimitivos {
         char - 16 bits - armazena 1 caractere - 2 bytes
         boolean - 1 bit - guarda false or true - 1 bit
          */
+
         int ageInt = 10;
         long bigNumber =1000000;
         char letter = 'M';
