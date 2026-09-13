@@ -31,6 +31,10 @@ public class Aula02TiposPrimitivos {
         //casting
         float casting = (float) 2000.0D;
         System.out.println("double from float: "+casting);
+
+        //String no java é uma classe
+        String nome = "Otávio";
+        System.out.println("oi meu nome é "+nome);
     }
 
 }
