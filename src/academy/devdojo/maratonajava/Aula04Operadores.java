@@ -9,5 +9,9 @@ public class Aula04Operadores {
         System.out.println(numero1 * numero2);
         System.out.println(numero1 / numero2);
 
+        // % resto de divisão
+        int resto = 21%2;
+        System.out.println(resto);
+        // < > == != <= >=
     }
 }
