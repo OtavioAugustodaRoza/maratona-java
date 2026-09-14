@@ -14,5 +14,6 @@ public class Aula04Operadores {
         System.out.println(resto);
         // < > == != <= >=
         // &&, ||, ! igual no javascript
+        // = += -= *= /= %=
     }
 }
