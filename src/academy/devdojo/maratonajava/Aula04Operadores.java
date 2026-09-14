@@ -13,5 +13,6 @@ public class Aula04Operadores {
         int resto = 21%2;
         System.out.println(resto);
         // < > == != <= >=
+        // &&, ||, ! igual no javascript
     }
 }
